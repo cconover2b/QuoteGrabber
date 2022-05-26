@@ -4,10 +4,6 @@ I wrote this QuoteGrabber to grab a quote from an API. I used a simple API that 
 
 [https://run.mocky.io/v3/b2772cea-c31a-4630-836c-a4c9853d6132](https://run.mocky.io/v3/b2772cea-c31a-4630-836c-a4c9853d6132)
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
-
 **# Development Environment**
 
 Java 18, Maven 3.85, and Intellij
